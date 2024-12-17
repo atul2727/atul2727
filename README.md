@@ -1,6 +1,8 @@
 # Namaste! 🙏
 
-My name is Atul. I am a web developer living in Chandigarh, India. 
+My name is Atul. I am a web developer living in Chandigarh, India.<br>
+I love building clean and functional web applications.
+
 
 <p>
   <a href="https://github.com/atul2727">
@@ -47,11 +49,19 @@ My name is Atul. I am a web developer living in Chandigarh, India.
 
 ## 📊 GitHub Statistics
 
-<a>
+<a> 
   <img src="https://github-readme-stats.vercel.app/api?username=atul2727&show_icons=true" alt="atul2727" />
 </a>
-<a name="learning2"></a>
+<!-- <a name="learning2"></a> -->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2727&layout=compact&theme=radical" alt="Top Languages" />
+
+
+
+## 🔭 I’m currently working on ...
+
+🏆 Creator Quests at [Quira.sh](https://quira.sh/user/atul171623)<br>
+I actively solve Creator Quests on Quira.sh, focusing on web development, AI, blockchain, and databases.
 
 
 ## 🔍  How to reach me
@@ -63,6 +73,7 @@ My name is Atul. I am a web developer living in Chandigarh, India.
 [<img src="https://img.shields.io/badge/X-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://x.com/akj2727)
 &nbsp;
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" alt="Gmail logo" title="Gmail" height="25" />](mailto:atuljaat2004aj@gmail.com)
+&nbsp;
 
 [tech_tools_anchor]: #Namaste--
 [learning_now_anchor]: #learning
