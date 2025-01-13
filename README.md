@@ -1,4 +1,4 @@
-# Namaste! 🙏
+# Hey there!
 
 My name is Atul. I am a web developer living in Chandigarh, India.<br>
 I love building clean and functional web applications.
