@@ -8,9 +8,6 @@ I love building clean and functional web applications.
   <a href="https://github.com/atul2727">
     <img src="https://komarev.com/ghpvc/?username=atul2727" alt="page views">
   </a>
-  <a href="https://github.com/atul2727?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/atul2727?color=green&logo=github">
-  </a>
 </p>
 
 
@@ -64,16 +61,13 @@ I love building clean and functional web applications.
 I actively solve Creator Quests on Quira.sh, focusing on web development, AI, blockchain, and databases.
 
 
-## 🔍  How to reach me
+## 🔍 How to Reach Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/atul-kumar-janghu-93227b210/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/atul_jaat_27/)
-&nbsp;
-[<img src="https://img.shields.io/badge/X-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://x.com/akj2727)
-&nbsp;
-[<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" alt="Gmail logo" title="Gmail" height="25" />](mailto:atuljaat2004aj@gmail.com)
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-janghu-93227b210/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/937702939181592646)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/akj2727)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/atul_jaat_27)
+
 
 [tech_tools_anchor]: #Namaste--
 [learning_now_anchor]: #learning
